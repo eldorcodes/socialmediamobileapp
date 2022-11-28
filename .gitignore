@@ -9,6 +9,8 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-
+deprecated.js 
+amplify/
+aws-exports.js
 # macOS
 .DS_Store
